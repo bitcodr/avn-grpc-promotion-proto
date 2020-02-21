@@ -7,7 +7,7 @@ message Request {
 }
 
 message Response {
-  uint64 charge = 1;
+  double charge = 1;
 }
 
 service Promotion {

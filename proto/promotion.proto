@@ -8,6 +8,8 @@ message Request {
 
 message Response {
   double charge = 1;
+  uint32 usableTimes = 2;
+  uint64 expireDate = 3;
 }
 
 service Promotion {

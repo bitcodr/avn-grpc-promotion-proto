@@ -1,8 +1,3 @@
-module github.com/amiraliio/avn-grpc-promotion-proto
+module github.com/bitcodr/avn-grpc-promotion-proto
 
-go 1.13
-
-require (
-	github.com/golang/protobuf v1.3.3
-	google.golang.org/grpc v1.27.1
-)
+go 1.15

@@ -3,4 +3,4 @@
 AVN GRPC Promotion Protobuf Package
 --
 
-**Reason:** We don't wanna copy every time the proto file to the client and server because of changes
+**Reason:** We don't wanna every time copy the proto file to the client and server after each change
